@@ -1,1 +1,1 @@
-# Hyper-Text-MarkUp-Language
+# ITC - HyperText MarkUp Language Course
